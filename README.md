@@ -1,7 +1,7 @@
 
 # Hi 👋 
 
-<h2 align="center"> I'm Jamilson Pestana </h2>
+<h2 align="center"> I'm Jamilson Pestana Jr</h2>
 <h3 align="center"> a full stack web developer. I love learning new technologies and putting them into practice in projects.</h3>
 
 
