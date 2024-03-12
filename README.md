@@ -1,25 +1,31 @@
+# Olá! 👋
 
-# Hi 👋 
+Eu sou o Jamilson Pestana Jr, um desenvolvedor web full-stack. Adoro mergulhar em novas tecnologias e transformar ideias em realidade por meio de código.
 
-<h2 align="center"> I'm Jamilson Pestana Jr</h2>
-<h3 align="center"> a full stack web developer. I love learning new technologies and putting them into practice in projects.</h3>
+## 🚀 Sobre Mim
 
+Iniciei minha jornada no mundo da programação quando me matriculei no curso de Ciência e Tecnologia na Universidade Federal da Bahia em 2020. Desde então, meu amor pela programação só tem crescido, me aprimorando sempre que possível. Durante a minha trajetória, participei de pesquisa científica, cursos de programação e um bootcamp no qual fui monitor. Em dezembro de 2023, concluí com sucesso meu bacharelado e posteriormente busquei uma graduação em Sistemas de Informação, ainda na UFBA.
 
-## 🚀 About me
-<p align="center">
-I started programming when I entered college in 2020, since then, over the past years I've been studying logic, mathematics and development. During that time I realized that there are many different technologies that are important to learn in order to become a good developer. With that in mind, I have reinvented myself many times in order to learn things correctly.
-</p>
+Ao longo da minha jornada acadêmica, aprofundei-me em vários paradigmas de programação, aprendi e aprimorei minhas habilidades em programação orientada a objetos com Java e melhorei significativamente minha proficiência em front-end com TypeScript, servindo para o back-end e front-end. Além disso, expandi minha expertise participando ativamente de projetos freelancers e no meu grupo de pesquisa, SPIDELAB+.
 
+Tenho grande interesse em Interação Humano-Computador e Raciocínio Computacional, áreas nas quais tenho atuado como pesquisador júnior desde 2021. Acredito que entender a intricada relação entre humanos e tecnologia é crucial para criar soluções de software impactantes e amigáveis ao usuário.
 
+## 🛠️ Tecnologias
 
-## 🛠 Technologies
-<p align="center"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a><a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
-    
-## Contact
+Aqui estão algumas das tecnologias com as quais trabalho:
 
-[![Linkedin: jamilson](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jamilsonpestana/)](https://www.linkedin.com/in/jamilsonpestana/)
-<!-- 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
- -->
+- Frontend: HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, Bootstrap, React
+- Backend: Node.js, Express
+- Design: Figma
+- Bancos de Dados: Firebase, MongoDB, MySQL
+- Ferramentas: Git, Postman
 
+## 📫 Entre em Contato
+
+Sinta-se à vontade para entrar em contato comigo pelos seguintes canais:
+
+- E-mail: [jamilsonpestana.dev@gmail.com](mailto:jamilsonpestana.dev@gmail.com)
+- LinkedIn: [Jamilson Pestana Jr](https://www.linkedin.com/in/jamilsonpestana/)
+
+Vamos conectar e colaborar em projetos!
 
