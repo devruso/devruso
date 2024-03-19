@@ -15,7 +15,7 @@ Tenho grande interesse em Interação Humano-Computador e Raciocínio Computacio
 Aqui estão algumas das tecnologias com as quais trabalho:
 
 - Frontend: HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, Bootstrap, React
-- Backend: Node.js, Express
+- Backend: Java, Node.js, Express
 - Design: Figma
 - Bancos de Dados: Firebase, MongoDB, MySQL
 - Ferramentas: Git, Postman
