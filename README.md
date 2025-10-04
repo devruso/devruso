@@ -1,31 +1,48 @@
 # Olá! 👋
 
-Eu sou o Jamilson Pestana Jr, um desenvolvedor web full-stack. Adoro mergulhar em novas tecnologias e transformar ideias em realidade por meio de código.
+Eu sou Jamilson Pestana Jr, engenheiro de software com foco em backend e experiência no desenvolvimento de sistemas robustos e escaláveis.
 
 ## 🚀 Sobre Mim
 
-Iniciei minha jornada no mundo da programação quando me matriculei no curso de Ciência e Tecnologia na Universidade Federal da Bahia em 2020. Desde então, meu amor pela programação só tem crescido, me aprimorando sempre que possível. Durante a minha trajetória, participei de pesquisa científica, cursos de programação e um bootcamp no qual fui monitor. Em dezembro de 2023, concluí com sucesso meu bacharelado e posteriormente busquei uma graduação em Sistemas de Informação, ainda na UFBA.
+Atualmente, atuo como engenheiro de software backend em um projeto da Petrobras, contribuindo para o desenvolvimento de sistemas de mapeamento e monitoramento de navios. Trabalho principalmente com Python, Django, PostgreSQL, Jenkins, Grafana e práticas como CI/CD e testes automatizados com alta cobertura.
 
-Ao longo da minha jornada acadêmica, aprofundei-me em vários paradigmas de programação, aprendi e aprimorei minhas habilidades em programação orientada a objetos com Java e melhorei significativamente minha proficiência com TypeScript, servindo para o back-end e front-end. Além disso, expandi minha expertise em programação e em desenvolvimento de software participando ativamente de projetos freelancers, de faculdade, durante o bootcamp, e também no meu grupo de pesquisa, SPIDELAB+.
+Anteriormente, fui o primeiro engenheiro de software da BYD Auto Brasil, onde desenvolvi e mantive o sistema de gerenciamento de armazéns (WMS), trabalhando com Java, Spring, PostgreSQL e arquitetura de microsserviços, em colaboração direta com equipes internacionais.
 
-Tenho grande interesse em Interação Humano-Computador e Raciocínio Computacional, áreas nas quais tenho atuado como pesquisador júnior desde 2021. Acredito que entender a intricada relação entre humanos e tecnologia é crucial para criar soluções de software impactantes e amigáveis ao usuário.
+Também tenho experiência como desenvolvedor web e mobile (React, React Native, TypeScript, Node.js, NestJS), mas meu foco atual está totalmente voltado para backend, com ênfase em qualidade de código, testes, automação de deploy, observabilidade e desempenho.
+
+Sou apaixonado por aprender novas tecnologias e estou sempre estudando e buscando evoluir. Atualmente, estou finalizando o curso de Sistemas de Informação na UFBA (previsão de conclusão em 2026). Tive experiências acadêmicas em Interação Humano-Computador (IHC) durante três anos no grupo de pesquisa SPIDELab, que foram essenciais para minha evolução profissional.
 
 ## 🛠️ Tecnologias
 
-Aqui estão algumas das tecnologias com as quais trabalho:
+- **Backend:** Python, Django, Java, Spring, Node.js, NestJS, TypeScript
+- **Banco de Dados:** PostgreSQL, MySQL, MongoDB, Firebase
+- **DevOps:** Jenkins, Docker, CI/CD, Grafana
+- **Frontend:** React, React Native, HTML, CSS, JavaScript, Expo
+- **Ferramentas:** Git, DBeaver, Postman
 
-- Frontend: HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, Bootstrap, React
-- Backend: Java, Node.js, Express
-- Design: Figma
-- Bancos de Dados: Firebase, MongoDB, MySQL
-- Ferramentas: Git, Postman
+## 💼 Experiências Recentes
+
+- **Hitss Brasil / Petrobras** (jun/2025 - atual)  
+  Engenheiro de software backend em sistema de monitoramento de navios.  
+  Tecnologias: Python, Django, PostgreSQL, Jenkins, Grafana.
+
+- **BYD Auto Brasil** (fev/2025 - jun/2025)  
+  Primeiro engenheiro de software na operação brasileira.  
+  Desenvolvimento e manutenção de sistema WMS (Java, Spring, PostgreSQL, microsserviços).
+
+- **LoriConecta** (ago/2024 - fev/2025)  
+  Desenvolvimento web e mobile, incluindo site e app (React, React Native, TypeScript).
+
+- **Freelancer**  
+  Projetos diversos, sempre com foco em backend e qualidade de código.
+
+## 👥 Comunicação e Trabalho em Equipe
+
+Acredito que boas soluções vêm de boas pessoas trabalhando juntas. Prezo pela comunicação clara e empática, qualidade nas entregas e colaboração.
 
 ## 📫 Entre em Contato
-
-Sinta-se à vontade para entrar em contato comigo pelos seguintes canais:
 
 - E-mail: [jamilsonpestana.dev@gmail.com](mailto:jamilsonpestana.dev@gmail.com)
 - LinkedIn: [Jamilson Pestana Jr](https://www.linkedin.com/in/jamilsonpestana/)
 
 Vamos conectar e colaborar em projetos!
-
