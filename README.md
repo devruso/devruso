@@ -20,21 +20,6 @@ Sou apaixonado por aprender novas tecnologias e estou sempre estudando e buscand
 - **Frontend:** React, React Native, HTML, CSS, JavaScript, Expo
 - **Ferramentas:** Git, DBeaver, Postman
 
-## 💼 Experiências Recentes
-
-- **Hitss Brasil / Petrobras** (jun/2025 - atual)  
-  Engenheiro de software backend em sistema de monitoramento de navios.  
-  Tecnologias: Python, Django, PostgreSQL, Jenkins, Grafana.
-
-- **BYD Auto Brasil** (fev/2025 - jun/2025)  
-  Primeiro engenheiro de software na operação brasileira.  
-  Desenvolvimento e manutenção de sistema WMS (Java, Spring, PostgreSQL, microsserviços).
-
-- **LoriConecta** (ago/2024 - fev/2025)  
-  Desenvolvimento web e mobile, incluindo site e app (React, React Native, TypeScript).
-
-- **Freelancer**  
-  Projetos diversos, sempre com foco em backend e qualidade de código.
 
 ## 👥 Comunicação e Trabalho em Equipe
 
