@@ -1,33 +1,69 @@
-# Olá! 👋
+# Hi there! 👋
 
-Eu sou Jamilson Pestana Jr, engenheiro de software com foco em backend e experiência no desenvolvimento de sistemas robustos e escaláveis.
+I'm **Jamilson Pestana Jr**, a Backend Software Engineer focused on building scalable, high-performance systems.
 
-## 🚀 Sobre Mim
+---
 
-Atualmente, atuo como engenheiro de software backend em um projeto da Petrobras, contribuindo para o desenvolvimento de sistemas de mapeamento e monitoramento de navios. Trabalho principalmente com Python, Django, PostgreSQL, Jenkins, Grafana e práticas como CI/CD e testes automatizados com alta cobertura.
+## 🚀 About Me
 
-Anteriormente, fui o primeiro engenheiro de software da BYD Auto Brasil, onde desenvolvi e mantive o sistema de gerenciamento de armazéns (WMS), trabalhando com Java, Spring, PostgreSQL e arquitetura de microsserviços, em colaboração direta com equipes internacionais.
+I currently work as a Backend Software Engineer on a Petrobras project, developing systems for ship mapping and monitoring. My main stack includes **Python (FastAPI & Django), PostgreSQL, AWS, Jenkins, and Grafana**, with strong emphasis on **CI/CD, observability, and high test coverage**.
 
-Também tenho experiência como desenvolvedor web e mobile (React, React Native, TypeScript, Node.js, NestJS), mas meu foco atual está totalmente voltado para backend, com ênfase em qualidade de código, testes, automação de deploy, observabilidade e desempenho.
+Previously, I was the **first software engineer at BYD Auto Brasil**, where I worked on a Warehouse Management System (WMS), using **Java, Spring, PostgreSQL**, and a **microservices architecture**, collaborating with international teams.
 
-Sou apaixonado por aprender novas tecnologias e estou sempre estudando e buscando evoluir. Atualmente, estou finalizando o curso de Sistemas de Informação na UFBA (previsão de conclusão em 2026). Tive experiências acadêmicas em Interação Humano-Computador (IHC) durante três anos no grupo de pesquisa SPIDELab, que foram essenciais para minha evolução profissional.
+Although I have experience with frontend and mobile (React, React Native), my current focus is **backend engineering**, especially:
 
-## 🛠️ Tecnologias
+- Scalable APIs (FastAPI, Django, Spring Boot)
+- System design & architecture
+- Performance and reliability
+- DevOps and automation
 
-- **Backend:** Python, Django, Java, Spring, Node.js, NestJS, TypeScript
-- **Banco de Dados:** PostgreSQL, MySQL, MongoDB, Firebase
-- **DevOps:** Jenkins, Docker, CI/CD, Grafana
-- **Frontend:** React, React Native, HTML, CSS, JavaScript, Expo
-- **Ferramentas:** Git, DBeaver, Postman
+---
 
+## 🧠 Current Focus
 
-## 👥 Comunicação e Trabalho em Equipe
+Lately, I’ve been diving deeper into **AI Engineering**, exploring:
 
-Acredito que boas soluções vêm de boas pessoas trabalhando juntas. Prezo pela comunicação clara e empática, qualidade nas entregas e colaboração.
+- LLM integration in real-world systems  
+- RAG (Retrieval-Augmented Generation)  
+- Intelligent automation and agents  
+- Backend architectures for AI-powered applications  
 
-## 📫 Entre em Contato
+I'm currently building systems that combine **backend engineering + AI**, including scheduling platforms and intelligent services.
 
-- E-mail: [jamilsonpestana.dev@gmail.com](mailto:jamilsonpestana.dev@gmail.com)
-- LinkedIn: [Jamilson Pestana Jr](https://www.linkedin.com/in/jamilsonpestana/)
+---
 
-Vamos conectar e colaborar em projetos!
+## 🛠️ Tech Stack
+
+- **Backend:** Python (FastAPI, Django), Java (Spring Boot), Node.js (NestJS), TypeScript  
+- **Databases:** PostgreSQL, MySQL, MongoDB  
+- **Cloud & DevOps:** AWS, Docker, CI/CD, Jenkins, Grafana  
+- **Frontend (secondary):** React, React Native, Expo  
+- **Tools:** Git, Postman, DBeaver  
+
+---
+
+## 🏗️ What I Care About
+
+- Clean architecture & SOLID principles  
+- Scalable and maintainable systems  
+- High-quality code and testing  
+- Real-world problem solving  
+- Continuous learning  
+
+---
+
+## 🎓 Education
+
+- B.Sc. in Science & Technology — UFBA  
+- B.Sc. in Information Systems (in progress, expected 2026)
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 Email: [jamilsonpestana.dev@gmail.com](mailto:jamilsonpestana.dev@gmail.com)  
+- 💼 LinkedIn: [Jamilson Pestana Jr](https://www.linkedin.com/in/jamilsonpestana/)  
+
+---
+
+⭐ Always open to collaborating on interesting projects and backend challenges.
