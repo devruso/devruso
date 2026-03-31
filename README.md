@@ -28,7 +28,7 @@ Lately, I’ve been diving deeper into **AI Engineering**, exploring:
 - Intelligent automation and agents  
 - Backend architectures for AI-powered applications  
 
-I'm currently building systems that combine **backend engineering + AI**, including scheduling platforms and intelligent services.
+I'm currently exploring practical applications that combine **backend engineering + AI**.
 
 ---
 
